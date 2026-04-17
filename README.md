@@ -5,5 +5,5 @@ Zip can be downloded here:
 https://www.mediafire.com/file/dcmfzeywg9feqzo/BTD5+Deluxe.zip
 
 2. Download the batch script
-3. Run the bat script, thin you will be done
+3. Run the bat script, then you will be done!
 
